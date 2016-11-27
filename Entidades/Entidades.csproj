@@ -48,7 +48,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Clientes.cs" />
+    <Compile Include="ClientesTelefonos.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TiposTelefonos.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
